@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Typing Effect
     const typedTextSpan = document.getElementById("typed-text");
-    const textArray = ["Full Stack Developer", "MERN Stack Enthusiast", "Problem Solver"];
+    const textArray = ["AIML Engineer","Software Development Engineer","Java Backend Developer","Full Stack Developer"]
     const typingDelay = 100;
     const erasingDelay = 50;
     const newTextDelay = 2000; // Delay between current and next text
