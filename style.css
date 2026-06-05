@@ -33,7 +33,13 @@ a {
     color: var(--text-primary);
     transition: color 0.3s ease;
 }
+.project-actions{
+    margin-top: 1rem;
+}
 
+.project-actions .btn{
+    display: inline-block;
+}
 /* Glassmorphism */
 .glass-card {
     background: var(--card-bg);
